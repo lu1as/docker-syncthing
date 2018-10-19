@@ -3,7 +3,7 @@
 A syncthing docker image, designed for nextcloud integration. 
 Syncthing runs as user with uid 33.
 
-Docker hub: [hub.docker.com/r/lu1as/aptly](https://hub.docker.com/r/lu1as/aptly)
+Docker hub: [hub.docker.com/r/lu1as/syncthing](https://hub.docker.com/r/lu1as/syncthing)
 
 # How to start
 
