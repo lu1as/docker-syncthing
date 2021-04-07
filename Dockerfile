@@ -1,6 +1,6 @@
 FROM alpine:latest
 
-ARG SYNCHTING_VERSION=v1.3.4
+ARG SYNCHTING_VERSION=v1.15.0
 
 LABEL maintainer="lukas.steiner@steinheilig.de"
 LABEL repository="github.com/lu1as/docker-syncthing"
