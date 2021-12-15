@@ -1,0 +1,4 @@
+variables:
+  IMAGE_NAME: docker.io/lu1as/syncthing
+
+include: https://git.zotha.de/-/snippets/10/raw/main/.gitlab-ci.yml
